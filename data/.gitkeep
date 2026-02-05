@@ -1,0 +1,2 @@
+# This file ensures the data directory is tracked by git
+# The database file (axilium.db) will be created automatically when the app runs
